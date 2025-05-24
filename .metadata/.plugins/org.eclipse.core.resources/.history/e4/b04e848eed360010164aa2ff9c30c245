@@ -1,0 +1,9 @@
+package com.creatio.crm.language.basics;
+
+public class CommnetsInJava {
+
+	public CommnetsInJava() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

@@ -1,0 +1,11 @@
+package com.creatio.crm.language.basics;
+
+public class CommnetsInJava {
+
+	
+		// TODO Auto-generated constructor stub
+		public static void main(String[] args) {
+			// TODO Auto-generated method stub
+	}
+
+}

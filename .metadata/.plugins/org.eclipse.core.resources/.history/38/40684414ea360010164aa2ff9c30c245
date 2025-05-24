@@ -1,0 +1,45 @@
+/**
+ * 
+ */
+package com.creatio.crm.language.basics;
+
+/**
+ * 
+ */
+public class HelloWorld {
+	int var= 4;
+
+	/**
+	 * 
+	 */
+	public HelloWorld() {
+		// TODO Auto-generated constructor stub
+	}
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//print the data and goto next line
+		System.out.println("Hello, World!");
+		
+		
+		//print the data and stay in same line
+		System.out.print("Hello");
+		System.out.print("World!!");
+		
+		System.out.println("Emp name is Teja and age is 30 and visa status is true");
+		
+		
+		
+		//formatted way of printing dynamic values
+		System.out.printf("Emp name is %s and age is %d and visa status is %b","Teja",30,true);
+		
+		//Normal way of printing message
+		System.out.println("Line number 40 there is error");
+
+	}
+	
+
+}

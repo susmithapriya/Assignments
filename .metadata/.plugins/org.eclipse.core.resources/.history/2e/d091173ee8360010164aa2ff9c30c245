@@ -1,0 +1,33 @@
+/**
+ * 
+ */
+package com.creatio.crm.language.basics;
+
+/**
+ * 
+ */
+public class HelloWorld {
+	int var= 4;
+
+	/**
+	 * 
+	 */
+	public HelloWorld() {
+		// TODO Auto-generated constructor stub
+	}
+
+	/**
+	 * @param args
+	 */
+	public static main(String[] args) {
+		// TODO Auto-generated method stub
+		//print the data and goto next line
+		System.out.println("Hello, World!");
+		
+		System.out.print("Hello");
+		System.out.print("World!!");
+
+	}
+	
+
+}
