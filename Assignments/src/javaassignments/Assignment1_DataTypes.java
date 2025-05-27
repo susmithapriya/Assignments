@@ -54,7 +54,7 @@ public class Assignment1_DataTypes {
 		int year = 2023;
 		System.out.println("Current year:" + year);
 
-		int followers = 1000000;
+		String followers = "1,000,000";
 		System.out.println("Number of followers on a social media platform: " + followers);
 
 		float Rating = 7.5f;
